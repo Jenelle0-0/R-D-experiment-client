@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://r-d-experiment-client.vercel.app/sitemap.xml

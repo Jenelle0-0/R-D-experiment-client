@@ -1,0 +1,15 @@
+:root {
+  --bg: #fff;
+  --text: #0f172a;
+}
+
+html, body, #__next {
+  height: 100%;
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+}
+
+a { color: #0369a1 }
+
+h1 { margin: 0 0 0 0 }
