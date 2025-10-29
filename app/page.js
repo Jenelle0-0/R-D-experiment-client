@@ -1,3 +1,5 @@
+"use client";
+
 import styles from './page.module.css';
 import TickerClient from './components/TickerClient';
 import GalleryClient, { images, repeats } from './components/GalleryClient';
