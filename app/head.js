@@ -9,6 +9,7 @@ export default function Head() {
       <title>{siteTitle}</title>
       <meta name="description" content={siteDescription} />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <meta name="google-site-verification" content="oEKr8HfUMuU5I5jRnd7RnUfRIzFWHknTTUBVaiYn0jQ" />
       <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 
       <meta property="og:title" content={siteTitle} />
